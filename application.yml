@@ -5,7 +5,7 @@ eureka:
   service-url:
    defaultZone: http://103.177.252.16:8761/eureka/
  instance:
-  hostname: localhost
+  hostname: 103.177.252.16
   
 services:
  payment:
